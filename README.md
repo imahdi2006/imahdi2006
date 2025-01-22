@@ -3,7 +3,7 @@
 Welcome to my GitHub Profile
 
 # 💫 About Me:
-🔭 I’m currently working on personal web development projects.<br><br>👯 I’m looking to collaborate on creative frontend projects.<br><br>🤝 I’m looking for help with improving my web development skills.<br><br>🌱 I’m currently learning React.<br><br>💬 Ask me about web development and frontend technologies.<br><br>⚡ Fun fact: I love exploring new technologies and creative ideas!<br>
+🔭 I’m currently working on personal web development projects.<br><br>👯 I’m looking to collaborate on creative frontend projects.<br><br>🤝 I’m looking for help with improving my web development skills.<br><br>💬 Ask me about web development and frontend technologies.<br><br>⚡ Fun fact: I love exploring new technologies and creative ideas!<br>
 
 
 ## 🌐 Socials:
