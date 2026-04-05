@@ -38,7 +38,7 @@ Currently, I am heavily focused on mastering the core concepts of **JavaScript**
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[imahdi2006]&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username="imahdi2006" &show_icons=true&theme=radium" alt="GitHub Stats" />
 </p>
 
 
