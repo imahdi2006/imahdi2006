@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [اسم شما]</h1>
+<h1 align="center">Hi 👋, I'm Mahdi Mahmoudzadeh</h1>
 <h3 align="center">Software Developer | JavaScript Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -17,7 +17,6 @@ Currently, I am heavily focused on mastering the core concepts of **JavaScript**
 - 🌱 **Currently learning:** Advanced JavaScript (Asynchronous JS, Event Loop, Closures), **Clean Code** principles, and preparing for top-tier technical interviews. Oh, and I'm currently learning **German**! 🇩🇪
 - 🧠 **My Coding Philosophy:** I rely on **Active Recall** and the Socratic method for learning. I value the process of struggling with a problem, debugging, and refactoring to achieve clean, maintainable code.
 - 💬 **Ask me about:** JavaScript quirks, refactoring strategies, or how to write code when the internet goes down! 😅
-- 📫 **How to reach me:** [لینک لینکدین یا ایمیل شما]
 
 ---
 
@@ -39,7 +38,7 @@ Currently, I am heavily focused on mastering the core concepts of **JavaScript**
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[یوزرنیم_گیت‌هاب_شما]&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[imahdi2006]&show_icons=true&theme=radium" alt="GitHub Stats" />
 </p>
 
 
