@@ -1,24 +1,47 @@
-<h1 align="center">Hi there, I'm Mahdi Mahmoudzadeh 👋</h1>
-<h3 align="center">Frontend Developer | JavaScript Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm [اسم شما]</h1>
+<h3 align="center">Software Developer | JavaScript Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  I'm a passionate web developer focused on crafting clean, user-friendly, and scalable web experiences. I believe in writing code that is not just functional, but maintainable and elegant. 
+  <i>"I believe in building muscle memory through deep problem-solving, not just copying code."</i>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Developing modern web applications and refining my architecture skills.
-- 🌱 **Currently deep-diving into:** Advanced Asynchronous JavaScript, React ecosystem, and Clean Code principles.
-- 🤝 **Looking to collaborate on:** Innovative frontend projects that challenge my problem-solving skills.
-- 💬 **Ask me about:** JavaScript quirks, Frontend UI/UX logic, and how I debug complex code.
-- ⚡ **Fun fact:** I treat coding like a complex puzzle—I don't stop until every piece fits perfectly!
+I am a passionate Web Developer with experience in both **Frontend** and **Backend** development. Having worked on high-pressure, enterprise-level projects (like telecom portals), I've learned how to adapt, refactor, and write resilient code even under challenging conditions. 
+
+Currently, I am heavily focused on mastering the core concepts of **JavaScript** and building highly interactive Frontend applications. I don't just learn syntax; I dive deep into how things work under the hood.
+
+- 🔭 **Currently working on:** Enterprise web applications and refining my architectural skills in Frontend development.
+- 🌱 **Currently learning:** Advanced JavaScript (Asynchronous JS, Event Loop, Closures), **Clean Code** principles, and preparing for top-tier technical interviews. Oh, and I'm currently learning **German**! 🇩🇪
+- 🧠 **My Coding Philosophy:** I rely on **Active Recall** and the Socratic method for learning. I value the process of struggling with a problem, debugging, and refactoring to achieve clean, maintainable code.
+- 💬 **Ask me about:** JavaScript quirks, refactoring strategies, or how to write code when the internet goes down! 😅
+- 📫 **How to reach me:** [لینک لینکدین یا ایمیل شما]
+
+---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks/Libraries:** React.js, TailwindCSS (یا هر چیزی که بلدی)
-- **Tools:** Git, GitHub, VS Code
+
+*(Note: You can use badges here. Replace the links if needed)*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[یوزرنیم_گیت‌هاب_شما]&show_icons=true&theme=radium" alt="GitHub Stats" />
+</p>
+
 
 <br/>
 
