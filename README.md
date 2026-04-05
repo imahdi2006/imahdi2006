@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Mahdi Mahmoudzadeh 👋</h1>
 <h3 align="center">Frontend Developer | JavaScript Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -13,11 +13,9 @@
 - 🌱 **Currently deep-diving into:** Advanced Asynchronous JavaScript, React ecosystem, and Clean Code principles.
 - 🤝 **Looking to collaborate on:** Innovative frontend projects that challenge my problem-solving skills.
 - 💬 **Ask me about:** JavaScript quirks, Frontend UI/UX logic, and how I debug complex code.
-- 📫 **How to reach me:** [لینک لینکدین یا ایمیلت رو اینجا بذار]
 - ⚡ **Fun fact:** I treat coding like a complex puzzle—I don't stop until every piece fits perfectly!
 
 ### 🛠️ Tech Stack & Tools
-*(مجموعه مهارت‌هایت را اینجا به رخ بکش)*
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
 - **Frameworks/Libraries:** React.js, TailwindCSS (یا هر چیزی که بلدی)
 - **Tools:** Git, GitHub, VS Code
