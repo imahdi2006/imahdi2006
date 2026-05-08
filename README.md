@@ -9,12 +9,11 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate Web Developer with experience in both **Frontend** and **Backend** development. Having worked on high-pressure, enterprise-level projects (like telecom portals), I've learned how to adapt, refactor, and write resilient code even under challenging conditions. 
+I am a passionate Web Developer with experience in both **Frontend** and **Backend** development. Having worked on high-pressure, enterprise-level projects, I've learned how to adapt, refactor, and write resilient code even under challenging conditions. 
 
 Currently, I am heavily focused on mastering the core concepts of **JavaScript** and building highly interactive Frontend applications. I don't just learn syntax; I dive deep into how things work under the hood.
 
 - 🔭 **Currently working on:** Enterprise web applications and refining my architectural skills in Frontend development.
-- 🌱 **Currently learning:** Advanced JavaScript (Asynchronous JS, Event Loop, Closures), **Clean Code** principles, and preparing for top-tier technical interviews.
 - 🧠 **My Coding Philosophy:** I rely on **Active Recall** and the Socratic method for learning. I value the process of struggling with a problem, debugging, and refactoring to achieve clean, maintainable code.
 - 💬 **Ask me about:** JavaScript quirks, refactoring strategies, or how to write code when the internet goes down! 😅
 
