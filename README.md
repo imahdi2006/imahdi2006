@@ -14,7 +14,7 @@ I am a passionate Web Developer with experience in both **Frontend** and **Backe
 Currently, I am heavily focused on mastering the core concepts of **JavaScript** and building highly interactive Frontend applications. I don't just learn syntax; I dive deep into how things work under the hood.
 
 - 🔭 **Currently working on:** Enterprise web applications and refining my architectural skills in Frontend development.
-- 🌱 **Currently learning:** Advanced JavaScript (Asynchronous JS, Event Loop, Closures), **Clean Code** principles, and preparing for top-tier technical interviews. Oh, and I'm currently learning **German**! 🇩🇪
+- 🌱 **Currently learning:** Advanced JavaScript (Asynchronous JS, Event Loop, Closures), **Clean Code** principles, and preparing for top-tier technical interviews.
 - 🧠 **My Coding Philosophy:** I rely on **Active Recall** and the Socratic method for learning. I value the process of struggling with a problem, debugging, and refactoring to achieve clean, maintainable code.
 - 💬 **Ask me about:** JavaScript quirks, refactoring strategies, or how to write code when the internet goes down! 😅
 
